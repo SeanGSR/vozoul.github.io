@@ -1,6 +1,6 @@
 # TRICKS & TIPS - Html / Css
 
-### \- **[Acceuil](/README.md)** \- **[Les bases](../README.md)** \-
+### \- **[Acceuil](/)** \- **[Les bases](../README.md)** \-
 
 **Rédigé par Vandekerckhove Vincent**
 
