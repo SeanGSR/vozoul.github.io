@@ -31,7 +31,7 @@ Le language balisé va simplement definir chaque éléments de notre documents p
 
 ### une page commence toujours par les éléments suivants en en-tête
 
-```html 5
+```html
 <!DOCTYPE html>
 <html lang="{langue utilisées}">
   <head>
@@ -59,7 +59,7 @@ Et ce termine ainsi
 
 - #### la balise :
 
-  ```html 5
+  ```html
   <balise attr="..."> {contenu} </balise>
   ```
 
@@ -123,7 +123,7 @@ exemple: (non fonctionnel sur github)
 
 la syntaxe des éléments:
 
-```html 5
+```html
 <div>
   un contenu ici
   <fieldset>
@@ -155,7 +155,7 @@ le but du CSS est de séparer la structure du document et sa présentation
 
 les documents CSS n'ont pas d'en-tête obligatoire en revanche une structure définie comme suit:
 
-```code
+```css
 SELECTEUR : {
   PROPRIETE: "VALEUR";
 }
@@ -182,14 +182,14 @@ Vous pourrez trouver une liste plus exhaustive sur [W3SCHOOL](https://www.w3scho
 exemple:
 
 HTML
-```HTML
+```html
 <div id="THE_ID" class="THE_CLASS">{content}</div>
 <input type="text" value="entrée de type text" />
 ```
 
 LE script CSS, s'écrira de la manière suivante :
 
-```CSS
+```css
 /* choix par élément (aucun préfixes) */
 div {
   propriété: valeur;
@@ -221,7 +221,7 @@ Vous comprendrez donc au travers de ces example que l'on utilisera les noms d'é
 
 par exemple:
 
-```html 5
+```html
 <div id="1" class="une">text 1</div>
 <div id="2" class="une">texte 1'</div>
 <div id="3" class="six">text 2</div>
@@ -235,7 +235,7 @@ les balises sont utilisés a plusieurs reprises ainsi que les classes cependant 
 
 exemple :
 
-```html 5
+```html
 <div id="article_996" class="article">
   <h3 class="title">titre de l'article 996</h3>
   <p>
