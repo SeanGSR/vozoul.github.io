@@ -1,6 +1,6 @@
 # Trick & tips
 
-[< Sommaire](/README.md)
+[< Sommaire](/)
 
 ## Quelques tips cool
 

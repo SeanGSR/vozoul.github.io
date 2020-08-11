@@ -1,7 +1,7 @@
 # Trick & tips - TP (Travaux pratiques)
 
-**[< Retour](../README.md)**
+**[< Retour](../)**
 
 ## Liste des TPs
 
-- [html](html/README.md)
+- [html](html/)

@@ -1,7 +1,7 @@
 # Trick & tips - Ma première page (TP - HTML)
 
-**[< Home](/README.md)**  
-**[< Acceuil TP](../README.md)**  
+**[< Home](/)**  
+**[< Acceuil TP](../)**  
 **[< Retour HTML](README.md)**
 
 Création de votre première page

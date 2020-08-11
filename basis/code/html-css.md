@@ -1,6 +1,6 @@
 # TRICKS & TIPS - Html / Css
 
-### \- **[Acceuil](/)** \- **[Les bases](../README.md)** \-
+### \- **[Acceuil](/)** \- **[Les bases](../)** \-
 
 **Rédigé par Vandekerckhove Vincent**
 
@@ -50,7 +50,7 @@ Le language balisé va simplement definir chaque éléments de notre documents p
 
 Et ce termine ainsi
 
-```html 5
+```html
   </body>
 </html>
 ```
@@ -72,7 +72,7 @@ Et ce termine ainsi
 
 - #### la balise auto-fermente :
 
-  ```html 5
+  ```html
   <balise attr="..." />
   ```
 

@@ -1,5 +1,5 @@
 # Trick & tips - HTML (TP)
 
-**[< Retour - Liste TP](../README.md)**
+**[< Retour - Liste TP](../)**
 
 - [Ma première page html - Hello world](HelloWorld.md)

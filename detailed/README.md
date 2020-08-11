@@ -1,6 +1,6 @@
 # Trick & tips - Pour aller plus loin
 
-**[< Acceuil](/README.md)**
+**[< Acceuil](/)**
 
 
 (En cours de rédaction)
