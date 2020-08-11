@@ -6,6 +6,8 @@
 
 `GIT` est un outils de "versioning" pour vos projets de travail
 
+### **Attention ! Préparez le café ça va être long ^_^**
+
 Cet outil de versionning sert a prendre, en quelque sort, une "photo" de nos fichiers comme ils étaient a un instant donné. On appel ceci `l'état` des données.
 
 Je vais pour tenter de vous aider a comprendre, faire une analogie avec un bureau de poste et des choses a envoyer vers une entreprise
