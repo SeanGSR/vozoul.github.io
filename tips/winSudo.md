@@ -1,12 +1,12 @@
 # Trick & tips - Commande `sudo` sous windows
 
-[< Sommaire](/)
+[< Sommaire](../)
 
 [< Tips](./)
 
 **Retranscris par Vincent le 09/08/2020**
 
-**Scources: https://parlonsgeek.com/sudo-sous-windows/**
+**Scources: [Parlons geek](https://parlonsgeek.com/sudo-sous-windows/)**
 
 Vous voulez ?
 - Une methode pour être Super utilisateur de vos ligne de commande sous windows ?
@@ -15,7 +15,7 @@ Vous voulez ?
 
 pour cela sous windows la commande de base:
 
-`runas <OPTIONS> /user:<USER> Program`
+`runas <OPTIONS> /user:<USER> <COMMAND>`
 
 - exemple, ouvrir l'invite commande `cmd` depuis une commande
 
@@ -25,36 +25,37 @@ Un peu long ! N'est-ce pas ?
 
 Surtout si l'on ajoute des options ...
 
-Pour faire fonctionnner la command `sudo` sous les differentes invite de commande utilisées sous windows, quelques etape et finish !!
+Pour faire fonctionnner la commande `sudo` sous les différentes invites de commande utilisées sous windows, quelques étapes et finish !!
 
 ***
 
 #### Ouvrez PowerShell **
-** **(en tant qu'administrateur, ca peut éviter des conflis ou erreurs divers)**
+
+\*\* *En tant qu'administrateur, ca peut éviter des conflis ou erreurs divers.*
 
 #### Ecrivez les commandes suivantes:
 
-- ##### Ajout du gestionnaire de paquet
+- *Ajout du gestionnaire de paquet*
     ```code
         iex(new-object net.webclient).downloadstring('https://get.scoop.sh')
     ```
     
-- ##### Modifiez les restrictions d'execution
+- *Modifiez les restrictions d'execution*
     ```code
         set-executionpolicy unrestricted -s cu -f
     ```
 
-- ##### Installez la commande au systeme depuis le gestionnaire de paquet
+- *Installez la commande au systeme depuis le gestionnaire de paquet*
 
     ```code
         scoop install sudo
     ```
 
-Voila c'est fini !
+#### Voila c'est fini !
 
 ***
 
-Dès l'ors vous pouvez lancer vos command en tant qu'administrateur ainsi:
+Dès lors vous pouvez lancer vos commandes en tant qu'administrateur, comme ceci:
 
 `sudo <COMMANDE>`
 
