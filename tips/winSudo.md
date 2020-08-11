@@ -17,7 +17,7 @@ pour cela sous windows la commande de base:
 
 `runas <OPTIONS> /user:<USER> <COMMAND>`
 
-- exemple, ouvrir l'invite commande `cmd` depuis une commande
+- example, ouvrir l'invite commande `cmd` depuis une commande
 
     `runas /noprofile /user:administrator cmd`
 
