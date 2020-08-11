@@ -1,6 +1,6 @@
 # Trick & tips - Les bases de la programmation et ces outils
 
-**[< Retour à l'acceuil](/README.md)**
+**[< Retour à l'acceuil](../)**
 
 Ce dossier contient les bases sur les différentes technologies et/ou outils abordés par **TRICKS & TIPS**
 
